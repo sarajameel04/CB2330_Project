@@ -18,24 +18,9 @@ These results describe sampling variation under our fitted model
 
 ## How to run
 
-You need Python 3, NumPy, Matplotlib and Jupyter Notebook.
+Install Python 3, NumPy and Matplotlib. Open `project.ipynb` in a notebook environment, then run all cells from top to bottom.
 
-1. Clone this repository and open its folder.
-2. Install the packages:
-
-   ```bash
-   python -m pip install numpy matplotlib notebook
-   ```
-
-3. Start Jupyter Notebook:
-
-   ```bash
-   python -m notebook
-   ```
-
-4. Open `project.ipynb` and run all cells from top to bottom.
-
-The notebook uses a fixed random seed and includes the published values directly, so no data download is needed.
+The notebook uses a fixed random seed and includes the published values, so no additional data download is needed.
 
 ## Files
 
