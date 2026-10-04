@@ -14,7 +14,7 @@ We fitted a negative binomial model for each age group and simulated contact cou
 
 The published difference was 11.33 contacts per person per day. The mean simulated difference was 11.34, with a standard deviation of 0.59. The middle 95% of simulated differences fell between 10.18 and 12.48.
 
-These results describe sampling variation under our fitted model, not all uncertainty in the original survey.
+These results describe sampling variation under our fitted model
 
 ## How to run
 
