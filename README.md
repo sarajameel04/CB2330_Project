@@ -1,6 +1,3 @@
-# CB2330 Project
-CB2330 project comparing daily social contacts between ages 10–14 and 70+
-
 # Daily contacts in two age groups
 
 This CB2330 project compares the average number of daily contacts between people aged 10–14 and those aged 70+.
